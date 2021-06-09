@@ -1,6 +1,5 @@
 <?php 
-/*esta é a api que eu tinha experimentado fazer para a base de dados
-	mas dava erro no rester*/
+
 	
 	include("connection.php");
     
